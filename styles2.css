@@ -6,6 +6,7 @@ body {
 
 .c1 {
     background-color: burlywood;
+    background-image: url(images/cork.jpg);
     margin: auto;
     width: 95%;
     height: 85vh;
